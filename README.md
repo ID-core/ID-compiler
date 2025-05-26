@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate coder and lifelong learner who loves building projects and exploring new technologies.
 
 ##  About Me
--  I'm currently focused on full-stack web development using Java, Spring Boot, React, HTML, CSS, and JavaScript.
+-  I'm currently focused on full-stack web development using Java, Spring Boot, React, mongodB, and JavaScript.
 -  Interested in software engineering, open source projects, and applying coding to real-world problems.
 -  Working on some AI-driven business projects — details are under wraps for now.
 -  Always learning new technologies and improving my programming skills.
