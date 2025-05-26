@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @ID-compiler
-- 👀 I’m interested in coding,Problem Solving,Creative Projects,and more
-- 🌱 I’m currently enhancing my skills in coding field
-- 💞️ I’m looking to collaborate on Creative Projects
-- 📫 How to reach me - via Email: work.ichhadwivedi@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I consider solving bugs as leveling up in my coding journey, Even, once I recreated a website feature I liked just to see if I could.
+# Hii there! I'm Ichha Dwivedi
 
-<!---
-ID-compiler/ID-compiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate coder and lifelong learner who loves building projects and exploring new technologies.
+
+##  About Me
+-  I'm currently focused on full-stack web development using Java, Spring Boot, React, HTML, CSS, and JavaScript.
+-  Interested in software engineering, open source projects, and applying coding to real-world problems.
+-  Working on some AI-driven business projects — details are under wraps for now.
+-  Always learning new technologies and improving my programming skills.
+-  I enjoy collaborating on open-source projects and being part of tech communities.
+-  Also developed the Pookie Beauty website — a fun project blending creativity and coding.
+
+##  Skills
+- Programming Languages: Java, C, JavaScript, HTML, CSS, SQL
+- Frameworks & Libraries: Spring Boot, React, Node.js (basic), Mongoose
+- Tools & Platforms: Git, GitHub, MySQL, MongoDB, SQL Databases, VS Code
+
+## How to reach me
+- Email: work.ichhadwivedi@gmail.com  <!-- Replace with your actual email -->
+- LinkedIn: [Ichha Dwivedi](https://www.linkedin.com/in/ichha-dwivedi-55b246288/)
+
+##  Fun fact
+I believe solving bugs is like leveling up in a game! 🎮
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me.
+
