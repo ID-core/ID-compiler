@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate coder and lifelong learner who loves building projects and exploring new technologies.
 
 ##  About Me
--  I'm currently focused on full-stack web development using Java, Spring Boot, React, mongodB, and JavaScript.
+-  I'm currently focused on full-stack web development using Java, Spring Boot, React, MongoDB, Mongoose and JavaScript.
 -  Interested in software engineering, open source projects, and applying coding to real-world problems.
 -  Working on some AI-driven business projects — details are under wraps for now.
 -  Always learning new technologies and improving my programming skills.
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate coder and lifelong learner who lo
 - Tools & Platforms: Git, GitHub, MySQL, MongoDB, SQL Databases, VS Code
 
 ## How to reach me
-- Email: work.ichhadwivedi@gmail.com  <!-- Replace with your actual email -->
+- Email: [Gmail](work.ichhadwivedi@gmail.com)
 - LinkedIn: [Ichha Dwivedi](https://www.linkedin.com/in/ichha-dwivedi-55b246288/)
 
 ##  Fun fact
