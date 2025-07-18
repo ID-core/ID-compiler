@@ -11,9 +11,10 @@ Welcome to my GitHub profile! I'm a passionate coder and lifelong learner who lo
 -  Also developed the Pookie Beauty website — a fun project blending creativity and coding.
 
 ##  Skills
-- Programming Languages: Java, C, JavaScript, HTML, CSS, SQL
-- Frameworks & Libraries: Spring Boot, React, Node.js (basic), Mongoose
-- Tools & Platforms: Git, GitHub, MySQL, MongoDB, SQL Databases, VS Code
+- Programming Languages: Java, C, JavaScript, HTML, CSS, MySQL, Kotlin
+- Frameworks & Libraries: Node.js, Next.js, React, Tailwind CSS, Bootstrap, Spring Boot, Express.js,
+MongoDB, MySQL, Postman, npm, Vite
+- Tools & Platforms: Git, SQL Databases, VS Code
 
 ## How to reach me
 - Email: [Gmail](work.ichhadwivedi@gmail.com)
