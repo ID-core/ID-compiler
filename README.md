@@ -14,13 +14,14 @@
 
 ##  About Me
 
-<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="robot coding"/>
+<img align="right" width="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" alt="animated developer"/>
 
--  Focused on **full-stack web development** — Next.js, MongoDB, JavaScript, Node.js & Java
--  Working on **AI-driven projects** 
--  Love collaborating on **open-source** and being part of tech communities
--  Always picking up new tech and sharpening my skills
+-  Focused on **Full-Stack Web Development** with **Next.js, Node.js, Express.js & MongoDB**
+-  Currently building **AI-powered applications** and scalable backend systems
+-  Passionate about **Open Source**, developer communities, and continuous learning
+-  Enjoy turning ideas into clean, performant, real-world products
 
+<br clear="right"/>
 <br clear="right"/>
 
 ---
